@@ -1,0 +1,867 @@
+/*all fonts from my font store*/
+/*give credit if used <3*/
+
+/*haloberry (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/haloberry');
+
+/*ginny (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/ginny');
+
+/*moggly (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/moggly');
+
+/*cat cafe (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/catcafe');
+
+/*hug me tight (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/hug-me-tight');
+
+/*hello sweet rain (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/hello-sweet-rain');
+
+/*baby doll (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/babydoll');
+
+/*golden class script (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/golden-class-script');
+
+/*malinda (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/malinda');
+
+/*dreamy notes (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/dreamy-notes-sans');
+
+/*aurora (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/aurora');
+
+/*cream peach (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/cream-peach');
+
+/*ochi (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/ochi');
+
+/*the girl next door (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/the-girl-next-door');
+
+/*hello honey (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/hello-honey');
+
+/*brusher (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/brusher');
+
+/*space time (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/space-time');
+
+/*sticky memos (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/sticky-memos');
+
+/*kg happy (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/kg-happy');
+
+/*sunny (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/sunny');
+
+/*rainy (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/rainy');
+
+/*cherry blossom (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/cherry-blossom');
+
+/*flower (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/flowers');
+
+/*lovely (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/lovely');
+
+/*sakura (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/sakura');
+
+/*water drop (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/water-drop');
+
+/*pastel (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/pastel');
+
+/*raindrops (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/raindrops');
+
+/*roses (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/roses');
+
+/*iris (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/iris');
+
+/*azalea (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/azalea');
+
+/*dandelion (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/dandelion');
+
+/*sun flower (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/sun-flower')
+
+/*crayon kids (taken from moonlight's font store)*/
+@import url('https://fonts.cdnfonts.com/css/crayon-kids')
+
+
+
+
+
+
+
+/*-----------------------------------*/
+/*1 - christmas lights (credits to moonlight11)*/
+@font-face {
+font-family: Christmas Lights;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/christmaslightsindoor-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/christmaslightsindoor-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*2 - gingerbread! (credits to moonlight11)*/
+@font-face {
+font-family: Gingerbread;
+src: url(https://raw.githubusercontent.com/mooonlight11/fonts/main/christmas_market-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/christmas_market-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*3 - jingle bells (credits to moonlight11)*/
+@font-face {
+font-family: Jingle Bells;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/pwchristmasfont-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/pwchristmasfont-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*4 - thanksgiving dinner (credits to moonlight11)*/
+@font-face {
+font-family: Thanksgiving Dinner;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/thanksgiving_webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/thanksgiving_cooker-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*5 - rosetta (credits to moonlight11)*/
+@font-face {
+font-family: Rosetta;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/rosetta-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/rosetta-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*6 - good morning (credits to moonlight11)*/
+@font-face {
+font-family: Good Morning;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/super_morning-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/super_morning-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*7 - fluttershy (credits to moonlight11)*/
+@font-face {
+font-family: Fluttershy;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/fluttershy-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/fluttershy-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*8 - rainbow umbrella (credits to moonlight11)*/
+@font-face {
+font-family: Rainbow Umbrella;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/rainbow_umbrella-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/rainbow_umbrella-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*9 - bettermilk (credits to moonlight11)*/
+@font-face {
+font-family: Bettermilk;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/bettermilk-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/bettermilk-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*10 - typo snowy (credits to moonlight11)*/
+@font-face {
+font-family: Typo Snowy;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/typo_snowy_bw_demo-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/typo_snowy_bw_demo-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*11 - cute notes (credits to moonlight11)*/
+@font-face {
+font-family: Cute Notes;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/cute_notes-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/cute_notes-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*12 - paradise cloud (credits to moonlight11)*/
+@font-face {
+font-family: Paradise Cloud;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/paradise_cloud-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/paradise_cloud-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*13 - reindeer antlers (credits to moonlight11)*/
+@font-face {
+font-family: Reindeer Antlers;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/red_christmas_-_personal_use-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/red_christmas_-_personal_use-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*14 - johnny hancock named by my sister
+search him up and you'll get it if you haven't heard the joke (credits to moonlight11)*/
+@font-face {
+font-family: Johnny Hancock;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/photograph_signature-webfont.woff') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/photograph_signature-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*15 - happy time imported by moonlight11 - used for aesthetic emojis (credits to moonlight11)*/
+@font-face {
+font-family: happy time;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/happytimedoodles-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/happytimedoodles-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+/*16 - dominos cuz dominique is too hard to remember (credits to moonlight11)*/
+@font-face {
+font-family: Dominos;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/dominique-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/dominique-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 17 - names - this person created a bunch of fonts with names as the title (credits to moonlight11)*/
+@font-face {
+font-family: Names;
+src: ur('https://raw.githubusercontent.com/mooonlight11/fonts/main/noahandnicole-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/noahandnicole-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*18 - skyfall - give credits to grokr <3*/
+@font-face {
+font-family: Skyfall;
+src: url('https://raw.githubusercontent.com/bear838/skyfall/main/handmade_mandala-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/bear838/skyfall/main/handmade_mandala-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*19 - seashore - give credits to grokr <3*/
+@font-face {
+font-family: seashore;
+src: url('https://raw.githubusercontent.com/bear838/todayshow/main/today_show-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/bear838/todayshow/main/today_show-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*20 - a casual handwritten pen ~ pls give credits to lydia <3*/
+@font-face {
+font-family: Pen;
+src: url('https://raw.githubusercontent.com/Hestu-the-Bestu/fonts1/blob/main/a.casual.handwritten.pen.noncommercial-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/Hestu-the-Bestu/fonts1/main/a.casual.handwritten.pen.noncommercial-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*21 - fruit loops (credits to moonlight11)*/
+@font-face {
+font-family: fruit loops;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/alyale-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/alyale-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*22 - raindrops (credits to moonlight11)*/
+@font-face {
+font-family: raindrops;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/chocolate_covered_raindrops_bold-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/chocolate_covered_raindrops_bold-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*23 - signature (credits to moonlight11)*/
+@font-face {
+font-family: signature;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/lieselotte_-_personal_use-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/lieselotte_-_personal_use-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*24 - snow blocks (credits to moonlight11)*/
+@font-face {
+font-family: snow blocks;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/cartoon_blocks_christmas-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/cartoon_blocks_christmas-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*25 - shooting star (credits to moonlight11)*/
+@font-face {
+font-family: shooting star;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/shooting-star-personal-use.regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/shooting-star-personal-use.regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*26 - vividly - pls give credits to chloetseng <3*/
+@font-face {
+font-family: vividly;
+src: url('https://raw.githubusercontent.com/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*27 - snow - pls give credits to renna8*/
+@font-face {
+font-family: 'snow';
+src: url('https://raw.githubusercontent.com/bigseals/random-fonts-2/main/mysticalsnow-mv3aj-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/bigseals/random-fonts-2/main/mysticalsnow-mv3aj-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*28 - helium (credits to moonlight11)*/
+@font-face {
+font-family: 'helium';
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/helium.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/helium.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*29 - vertically (credits to moonlight11)*/
+@font-face {
+font-family: 'vertically';
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/vertically.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/vertically.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*30 - elegant (credits to moonlight11 or CC_chloe)*/
+@font-face {
+font-family: 'elegant';
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/elegant_demo-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/elegant_demo-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*31 - billie signature (credits to moonlight11 or CC_chloe)*/
+@font-face {
+font-family: 'billie signature';
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/billiesignaturedemo-demo-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/billiesignaturedemo-demo-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*32 - kinantan (credits to moonlight11 or CC_Chloe)*/
+@font-face {
+font-family: 'kinantan';
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/Kinantan.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/moonlight11/font2/main/Kinantan.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*33 ~ arlolines (credits to moonlight11)*/
+@font-face {
+font-family: 'arlolines';
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/arlolines-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/gh/mooonlight11/font2/main/arlolines-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 34 - bobogo (pls give credit to @elainehan if used) */
+@font-face {
+font-family: bobogo;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Bobogo.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/Bobogo.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 35 - daz (credits to moonlight11)*/
+@font-face {
+font-family: daz;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/dazhandwriting-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/dazhandwriting-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 36 - sparkle (credits to moonlight11)*/
+@font-face {
+font-family: sparkle;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/baby_sparkle-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/baby_sparkle-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 37 - analytic (credits to moonlight11)*/
+@font-face {
+font-family: analytic;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/analytic-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/analytic-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 38 - chrisye (credits to moonlight11)*/
+@font-face {
+font-family: chrisye;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/chrisye-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/chrisye-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 39 - cloudy (credits to moonlight11)*/
+@font-face {
+font-family: cloudy;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/cloudy_weather-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/cloudy_weather-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+/* 40 - strike (credits to moonlight11)*/
+@font-face {
+font-family: strike;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/single_flashing-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/single_flashing-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 41 - marinda (credits to moonlight11)*/
+@font-face {
+font-family: marinda;
+src: url('hhttps://raw.githubusercontent.com/mooonlight11/font2/main/marinda-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/marinda-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 42 - nathalie (credits to moonlight11)*/
+@font-face {
+font-family: nathalie;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/simple_nathalie-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/simple_nathalie-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 43 - april (credits to moonlight11)*/
+@font-face {
+font-family: april;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/april-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/april-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 44 - spring (credits to moonlight11)*/
+@font-face {
+font-family: spring;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/spring-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/spring-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 45 - salmon (credits to moonlight11)*/
+@font-face {
+font-family: salmon;
+src: url('https://raw.githubusercontent.com/mooonlight11/font3/main/salmon_season-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font3/main/salmon_season-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+/* 46 - harvest (credits to moonlight11)*/
+@font-face {
+font-family: harvest;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/harvest_story-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/harvest_story-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 47 - milky lemon (credits to moonlight11)*/
+@font-face {
+font-family: milky lemon;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/milky_lemon-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/milky_lemon-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 48 - notes (credits to moonlight11)*/
+@font-face {
+font-family: notes;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ordinary_notes-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ordinary_notes-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 49 -  write me a song (credits to moonlight11)*/
+@font-face {
+font-family: write me a song;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/please_write_me_a_song-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/please_write_me_a_song-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+/* 50 -  lazy dog (credits to moonlight11)*/
+@font-face {
+font-family: lazy dog;
+src: url('https://raw.githubusercontent.com/mooonlight11/font2/main/lazy_dog.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font2/main/lazy_dog.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 51 -  compass (credits to moonlight11)*/
+@font-face {
+font-family: compass;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CompassBook.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CompassBook.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 52 -  story lens (credits to moonlight11)*/
+@font-face {
+font-family: story lens;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/StoryLens.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/StoryLens.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 53 -  heart emojis (credits to moonlight11)*/
+@font-face {
+font-family: hearts;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Heartz.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Heartz.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+/* 54 -  juicy mango (credits to moonlight11)*/
+@font-face {
+font-family: juicy mango;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/JuiceMango.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/JuiceMango.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+
+
+/* 55 -  wonderfully (credits to moonlight11)*/
+@font-face {
+font-family: wonderfully;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Wonderfully.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Wonderfully.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+/* 56 - opacity (credits to moonlight11)*/
+@font-face {
+font-family: opacity;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/OpacityRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/OpacityRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 57 -  violet (credits to moonlight11)*/
+@font-face {
+font-family: violet;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/StellaViolet.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/StellaViolet.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 58 -  hey bro (credits to moonlight11)*/
+@font-face {
+font-family: hey bro;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/HeyBro-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/HeyBro-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 59 -  moonlight (full credits to moonlight11)*/
+/* this one was made by me!!!*/
+@font-face {
+font-family: moonlight;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Moonlight-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Moonlight-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 60 -  blueberry (credits to moonlight11)*/
+@font-face {
+font-family: blueberry;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Blueberry-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Blueberry-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 61 -  coffee (credits to moonlight11)*/
+@font-face {
+font-family: coffee;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CoffeeHealing.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CoffeeHealing.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 62 -  apricot (credits to moonlight11)*/
+@font-face {
+font-family: apricot;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ApricotRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ApricotRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 63 -  kiotto (credits to moonlight11)*/
+@font-face {
+font-family: kiotto;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KiottoDemoRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KiottoDemoRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 64 -  jolly jingle (credits to moonlight11)*/
+@font-face {
+font-family: jolly jingle;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/JollyJinglePersonaluse.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/JollyJinglePersonaluse.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 65 -  providence sans (credits to moonlight11)*/
+@font-face {
+font-family: providence sans;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Providence-Sans.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Providence-Sans.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 66a -  more sugar (credits to moonlight11)*/
+@font-face {
+font-family: more sugar;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 66b -  more sugar thin (credits to moonlight11)*/
+@font-face {
+font-family: more sugar thin;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarThin.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarThin.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 67 -  penmanship (credits to moonlight11)*/
+@font-face {
+font-family: penmanship;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGPrimaryPenmanship.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGPrimaryPenmanship.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 68 -  seadiving (credits to moonlight11)*/
+@font-face {
+font-family: seadiving;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/SeadivingRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/SeadivingRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 69 -  demand (credits to moonlight11)*/
+@font-face {
+font-family: demand;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/DemandRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/DemandRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 70 -  little swag (credits to moonlight11)*/
+@font-face {
+font-family: little swag;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGALittleSwag.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGALittleSwag.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 71 -  castles crumbling (credits to moonlight11)*/
+@font-face {
+font-family: castles crumbling;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGCastlesCrumbling-Normal.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGCastlesCrumbling-Normal.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 72 -  wildy sans (credits to moonlight11)*/
+@font-face {
+font-family: wildy sans;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/WildySansRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/WildySansRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 73 -  simple handmade (credits to moonlight11)*/
+@font-face {
+font-family: simple handmade;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/SimpleHandmadeRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/SimpleHandmadeRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 74 - love (credits to moonlight11)*/
+@font-face {
+font-family: love;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Love.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Love.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 75 - daily retro (credits to moonlight11)*/
+@font-face {
+font-family: daily retro;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/DailyRetroRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/DailyRetroRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 76 - chicken dinner (credits to moonlight11)*/
+@font-face {
+font-family: chicken dinner;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ChickenDinner.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ChickenDinner.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 77 - peaches (credits to moonlight11)*/
+@font-face {
+font-family: peaches;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CreamPeach.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CreamPeach.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* 78 - regular brush (credits to moonlight11)*/
+@font-face {
+font-family: regular brush;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Brush-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Brush-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+/* 79 - malibu (credits to moonlight11)*/
+@font-face {
+font-family: malibu;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Malibudemo.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Malibudemo.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*80 - cheese (credits to moonlight11)*/
+@font-face {
+font-family: cheese;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/SuperCottage.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/SuperCottage.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*81 - holiday delight (credits to moonlight11)*/
+@font-face {
+font-family: holiday delight;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/HolidayDelightRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/HolidayDelightRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*82 - game bubble (credits to moonlight11)*/
+@font-face {
+font-family: game bubble;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/GameBubble.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/GameBubble.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/*83 - crial black (credits to moonlight11)*/
+@font-face {
+font-family: crial black;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Crialblack.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Crialblack.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
